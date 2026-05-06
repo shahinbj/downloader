@@ -5,3 +5,4 @@
 - [https___share_google_6NHZFvwbwEsUK45mV (20260506_142252)](pages/share.google/https___share_google_6NHZFvwbwEsUK45mV/20260506_142252/index.md) — 0 media files
 - [https___share_google_3PZ9wTjsfDqVWVYpU (20260506_142349)](pages/share.google/https___share_google_3PZ9wTjsfDqVWVYpU/20260506_142349/index.md) — 1 media files
 - [https___www_google_com_url_sa_t_source_web_rct_j_opi_89978449_url_https___eldenring_wiki_fextralife_ (20260506_143719)](pages/google.com/https___www_google_com_url_sa_t_source_web_rct_j_opi_89978449_url_https___eldenring_wiki_fextralife_/20260506_143719/index.md) — 0 media files
+- [https___www_google_com_url_sa_t_source_web_rct_j_opi_89978449_url_https___www_scribd_com_document_87 (20260506_144101)](pages/google.com/https___www_google_com_url_sa_t_source_web_rct_j_opi_89978449_url_https___www_scribd_com_document_87/20260506_144101/index.md) — 0 media files
