@@ -9,6 +9,7 @@
 - [goodbyedpi-0.2.2](./goodbyedpi-0.2.2)
 - [lantern-installer-beta](./lantern-installer-beta)
 - [spoofdpi-windows-amd64](./spoofdpi-windows-amd64)
+- [unzip_6.0-21ubuntu1.2_amd64](./unzip_6.0-21ubuntu1.2_amd64)
 - [watch](./watch)
 - [wget](./wget)
 
