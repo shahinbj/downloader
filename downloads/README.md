@@ -2,6 +2,7 @@
 
 - [2XvPx8QFMz35GRxhn](./2XvPx8QFMz35GRxhn)
 - [3b1623ef-69d5-4b36-b2ae-69c47e27017e](./3b1623ef-69d5-4b36-b2ae-69c47e27017e)
+- [MasterDnsVPN_Client_Linux_AMD64](./MasterDnsVPN_Client_Linux_AMD64)
 - [MasterDnsVPN_Client_Windows_AMD64](./MasterDnsVPN_Client_Windows_AMD64)
 - [Xray-linux-64](./Xray-linux-64)
 - [_kappa_17875](./_kappa_17875)
