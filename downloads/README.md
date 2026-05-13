@@ -5,6 +5,7 @@
 - [MasterDnsVPN_Client_Linux_AMD64](./MasterDnsVPN_Client_Linux_AMD64)
 - [MasterDnsVPN_Client_Windows_AMD64](./MasterDnsVPN_Client_Windows_AMD64)
 - [MasterDnsVPN_Server_Linux_AMD64](./MasterDnsVPN_Server_Linux_AMD64)
+- [NekoBox-1.4.2-x86_64](./NekoBox-1.4.2-x86_64)
 - [Xray-linux-64](./Xray-linux-64)
 - [_kappa_17875](./_kappa_17875)
 - [archive_20260510_164052](./archive_20260510_164052)
