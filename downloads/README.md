@@ -15,6 +15,7 @@
 - [findns-windows-amd64](./findns-windows-amd64)
 - [goodbyedpi-0.2.2](./goodbyedpi-0.2.2)
 - [lantern-installer-beta](./lantern-installer-beta)
+- [main](./main)
 - [pydns-scanner-windows](./pydns-scanner-windows)
 - [spoofdpi-windows-amd64](./spoofdpi-windows-amd64)
 - [unzip_6.0-21ubuntu1.2_amd64](./unzip_6.0-21ubuntu1.2_amd64)
