@@ -2,6 +2,7 @@
 
 - [2XvPx8QFMz35GRxhn](./2XvPx8QFMz35GRxhn)
 - [3b1623ef-69d5-4b36-b2ae-69c47e27017e](./3b1623ef-69d5-4b36-b2ae-69c47e27017e)
+- [MahsaNG_16_arm64-v8a](./MahsaNG_16_arm64-v8a)
 - [MasterDnsVPN_Client_Linux_AMD64](./MasterDnsVPN_Client_Linux_AMD64)
 - [MasterDnsVPN_Client_Windows_AMD64](./MasterDnsVPN_Client_Windows_AMD64)
 - [MasterDnsVPN_Server_Linux_AMD64](./MasterDnsVPN_Server_Linux_AMD64)
